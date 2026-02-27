@@ -8,6 +8,8 @@ from config.paths_config import *
 import sys
 
 if __name__ == "__main__":
+
+    ### Full Training pipeline
     
     ### 1. Data Ingestion
     data_ingestion = DataIngestion(read_yaml(CONFIG_PATH))
