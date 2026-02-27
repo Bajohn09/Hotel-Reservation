@@ -1,0 +1,41 @@
+2026-01-30 16:27:34,646 - INFO - Starting main program
+2026-01-30 16:27:34,646 - ERROR - Error ocurred
+2026-01-30 16:27:34,646 - ERROR - Error occured in c:\Users\Usuario\Documents\PythonProjects\Hotel Reservation\test_exc.py at line 10: Custom Error Zero
+2026-01-30 17:23:51,679 - ERROR - Error reading the YAML file.
+2026-01-30 17:24:21,581 - ERROR - Error reading the YAML file.
+2026-01-30 17:25:25,429 - ERROR - Error reading the YAML file.
+2026-01-30 17:28:13,747 - INFO - Successfully read the YAML file
+2026-01-30 17:28:18,669 - INFO - Data Ingestion Started with hotel_reservation_23456, file: 
+2026-01-30 17:28:21,900 - INFO - Starting Data Ingestion.
+2026-01-30 17:30:54,285 - INFO - Successfully read the YAML file
+2026-01-30 17:30:54,285 - INFO - Data Ingestion Started with hotel_reservation_23456, file: 
+2026-01-30 17:30:54,285 - INFO - Starting Data Ingestion.
+2026-01-30 17:30:54,898 - WARNING - No project ID could be determined. Consider running `gcloud config set project` or setting the GOOGLE_CLOUD_PROJECT environment variable
+2026-01-30 17:30:54,898 - ERROR - Error while downloading the file in GCP
+2026-01-30 17:30:54,898 - INFO - Data ingestion complete
+2026-01-30 17:32:36,901 - INFO - Successfully read the YAML file
+2026-01-30 17:32:36,902 - INFO - Data Ingestion Started with hotel_reservation_23456, file: 
+2026-01-30 17:32:36,902 - INFO - Starting Data Ingestion.
+2026-01-30 17:32:38,014 - ERROR - Error while downloading the file in GCP
+2026-01-30 17:32:38,014 - INFO - Data ingestion complete
+2026-01-30 17:33:05,563 - INFO - Successfully read the YAML file
+2026-01-30 17:33:05,563 - INFO - Data Ingestion Started with hotel_reservation_23456, file: 
+2026-01-30 17:33:05,563 - INFO - Starting Data Ingestion.
+2026-01-30 17:34:54,055 - INFO - Successfully read the YAML file
+2026-01-30 17:34:54,055 - INFO - Data Ingestion Started with hotel_reservation_23456, file: Hotel_Reservations.csv
+2026-01-30 17:34:54,056 - INFO - Starting Data Ingestion.
+2026-01-30 17:34:56,742 - INFO - Raw file Hotel_Reservations.csv downloaded to artifacts/raw\raw.csv
+2026-01-30 17:34:56,742 - INFO - Starting the splitting process
+2026-01-30 17:34:56,936 - INFO - Train data saved to artifacts/raw\train.csv
+2026-01-30 17:34:56,936 - INFO - Test data saved to artifacts/raw\test.csv
+2026-01-30 17:34:56,938 - INFO - Data Ingestion completed successfuly.
+2026-01-30 17:34:56,938 - INFO - Data ingestion complete
+2026-01-30 17:40:17,651 - INFO - Successfully read the YAML file
+2026-01-30 17:40:17,651 - INFO - Data Ingestion Started with hotel_reservation_23456, file: Hotel_Reservations.csv
+2026-01-30 17:40:17,651 - INFO - Starting Data Ingestion.
+2026-01-30 17:40:20,304 - INFO - Raw file Hotel_Reservations.csv downloaded to artifacts/raw\raw.csv
+2026-01-30 17:40:20,304 - INFO - Starting the splitting process
+2026-01-30 17:40:20,486 - INFO - Train data saved to artifacts/raw\train.csv
+2026-01-30 17:40:20,486 - INFO - Test data saved to artifacts/raw\test.csv
+2026-01-30 17:40:20,488 - INFO - Data Ingestion completed successfuly.
+2026-01-30 17:40:20,488 - INFO - Data ingestion complete

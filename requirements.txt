@@ -1,0 +1,15 @@
+pandas<3.0.0
+numpy
+google-cloud-storage
+scikit-learn
+pyyaml
+ipykernel
+matplotlib
+seaborn
+statsmodels
+imbalanced-learn
+xgboost
+lightgbm
+setuptools
+protobuf
+mlflow>2.22.1
